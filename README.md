@@ -1,7 +1,3 @@
-[![Java CI with Maven](https://github.com/mfaisalkhatri/rest-assured-examples/actions/workflows/maven.yml/badge.svg)](https://github.com/mfaisalkhatri/rest-assured-examples/actions/workflows/maven.yml)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 ## Don't forget to give a :star: to make the project popular.
 
 ## :question: What is this Repository about?
@@ -42,36 +38,3 @@ framework in this repository:
 - How to use Builder Pattern for test data generation using [Java Faker][java_faker]?
 - How to write end-to-end api tests?
 - How to perform `JSON Schema Validation`?
-
-## :writing_hand: Blog Links
-- [What is API Testing?][blog_apitesting]
-- [End to End API testing using rest-assured][e2eblog]
-- [How to perform JSON Schema Validation using Rest-Assured?][jsconschemavalidationblog]
-- [API Testing using RestAssured and OkHttp][blog_restassured_okhttp]
-
-## :question: Need Assistance?
-
-- Discuss your queries by writing to me @ `mohammadfaisalkhatri@gmail.com`
-  OR ping me on any of the social media sites using the below link:
-   - [Linktree][linktree]
-
-## :computer: Paid Trainings
-
-Contact me for Paid trainings related to Test Automation and Software Testing, 
-mail me @ `mohammadfaisalkhatri@gmail.com` or ping me on [LinkedIn][linkedin]
-
-## :thought_balloon: Checkout the blogs related to Testing on my [website][]
-
-
-[linkedin]: https://www.linkedin.com/in/faisalkhatri/
-[linktree]: https://linktr.ee/faisalkhatri
-[website]: https://mfaisalkhatri.github.io
-[reqreswebsite]:https://reqres.in/
-[blog_restassured_okhttp]: https://mfaisalkhatri.github.io/2020/05/29/restassuredokhttp/
-[blog_apitesting]: https://mfaisalkhatri.github.io/2020/08/08/apitesting/
-[restfulbooker]:https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-PartialUpdateBooking
-[e2eblog]: https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-using-rest-assured-a58c4ea80255
-[jsconschemavalidationblog]: https://medium.com/@iamfaisalkhatri/how-to-perform-json-schema-validation-using-rest-assured-64c3b6616a91
-[Lombok_website]:https://projectlombok.org/
-[testng_website]:https://testng.org
-[java_faker]: https://github.com/DiUS/java-faker
